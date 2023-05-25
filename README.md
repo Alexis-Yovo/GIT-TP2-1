@@ -1,2 +1,2 @@
-# GIT-TP2-1
-TP 2 Git EX 1
+# TP2-Git-EX1
+Exercice 1 du TP2 de  Git
